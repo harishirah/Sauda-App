@@ -1,6 +1,6 @@
 # Sauda-App
 
--   A React Native App for Buying/Selling Items within IITJ Campus.
+-   A React Native App for Renting/Trading Items within IITJ Campus.
 -   Developed for Software Engineering (CSL2060) Course Project.
 
 ## Steps to follow to contribute
